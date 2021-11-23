@@ -1,0 +1,14 @@
+.paragraph{
+    font-weight: bold;
+    color: gba(8, 8, 8, r0.767);
+    font-size:  45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .hello .welcome {
+    color: rgba(5, 0, 0, 0.658);
+    font-weight: 600;
+   
+  }
+
+  
